@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axadishaq&label=Profile%20views&color=0e75b6&style=flat" alt="axadishaq" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?axadishaq=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<p>[![trophy](https://github-profile-trophy.vercel.app/?axadishaq=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)</p>
 
 - 🌱 I’m currently learning **MaterialUI React Native & Next.js**
 

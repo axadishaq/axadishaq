@@ -5,9 +5,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=axadishaq)](https://github.com/axadishaq/github-profile-trophy)
 
-- 🌱 I’m currently learning **MaterialUI React Native & Next.js**
+- 🌱 I’m currently learning **AI/ML Gen and Agentic & Next.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AxadXh](https://github.com/AxadXh)
+- 👨‍💻 All of my projects are available at [https://github.com/AxadXh](https://github.com/axadishaq)
 
 - 📝 I regularly write articles on [www.linkedin.com/in/axadishaq](www.linkedin.com/in/axadishaq)
 

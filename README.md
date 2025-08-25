@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI/ML Gen and Agentic & Next.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AxadXh](https://github.com/axadishaq)
+- 👨‍💻 All of my projects are available at [https://github.com/axadishaq](https://github.com/axadishaq)
 
 - 📝 I regularly write articles on [www.linkedin.com/in/axadishaq](www.linkedin.com/in/axadishaq)
 
